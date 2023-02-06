@@ -1,2 +1,2 @@
-# pegram
+# petgram
 An instagram clone
